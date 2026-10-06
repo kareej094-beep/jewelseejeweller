@@ -1,0 +1,6 @@
+{
+  "name": "Jewelsee - Luxury Jewellery Discovery & Management",
+  "description": "A high-fidelity luxury fine jewellery discovery platform, artisan jeweller showcase, and comprehensive management portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
